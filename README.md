@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @schadfield.
 - 👀 I’m interested in Shogi and Java programming.
-- 🌱 I’m the developer of Shogi Explorer (https://www.chadfield.com/).
+- 🌱 I’m the developer of Shogi Explorer.
 
 <!---
 schadfield/schadfield is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
