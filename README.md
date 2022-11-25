@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stephen Chadfield.
-- [@SRChadfield@mastodon.sdf.org](https://mastodon.sdf.org/@SRChadfield)
+- [@src@social.sdf.org](https://social.sdf.org/@src)
 - 👀 I’m interested in Shogi and Java programming.
 - 🌱 I’m the developer of Shogi Explorer.
 
