@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Stephen Chadfield.
 - WWW: [https://www.chadfield.com/](https://www.chadfield.com/)
-- Mastodon: [https://social.sdf.org/@src](https://social.sdf.org/@src)
 - 👀 I’m interested in Shogi and Java programming.
 - 🌱 I’m the developer of Shogi Explorer.
 
